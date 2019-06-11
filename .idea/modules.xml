@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edu-bean/edu-bean.iml" filepath="$PROJECT_DIR$/edu-bean/edu-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-common-util/edu-common-util.iml" filepath="$PROJECT_DIR$/edu-common-util/edu-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-interface/edu-interface.iml" filepath="$PROJECT_DIR$/edu-interface/edu-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-parent/edu-parent.iml" filepath="$PROJECT_DIR$/edu-parent/edu-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-service-util/edu-service-util.iml" filepath="$PROJECT_DIR$/edu-service-util/edu-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-usermanager/edu-usermanager.iml" filepath="$PROJECT_DIR$/edu-usermanager/edu-usermanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-web-util/edu-web-util.iml" filepath="$PROJECT_DIR$/edu-web-util/edu-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/edu180622.iml" filepath="$PROJECT_DIR$/.idea/edu180622.iml" />
+    </modules>
+  </component>
+</project>
